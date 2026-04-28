@@ -6,6 +6,11 @@
 
 > 제약조건이 있는 long-only 포트폴리오에서 Sharpe ratio가 가장 높은 가중치 조합은 무엇인가?
 
+## 작업 기준 문서
+
+- `AGENTS.md`: 저장소 작업 기준과 품질 기준
+- `SOURCE.md`: KAIST-DFMBA 참고 경로와 프로젝트별 컨텐츠 재구성 기준
+
 ## 저장소 구조
 
 ```text
